@@ -30,5 +30,3 @@ Beamer is a document class in LaTeX system. A lot of extensions could be built u
 Be free join in this project! All you need may be 15 mins only to get familiar with the LaTeX command system.
 
 We need your support for more decent slides!
-
-Contact: hauten.lee # mail.bnu.edu.cn (replace # with @)
